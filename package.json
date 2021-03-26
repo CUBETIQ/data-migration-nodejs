@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/CUBETIQ/data-migration-nodejs/issues"
   },
-  "homepage": "https://github.com/CUBETIQ/data-migration-nodejs#readme"
+  "homepage": "https://github.com/CUBETIQ/data-migration-nodejs#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
 }
