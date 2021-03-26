@@ -1,0 +1,26 @@
+{
+  "name": "data-migration-nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs data migration with excel, csv and rest apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CUBETIQ/data-migration-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "excel",
+    "csv",
+    "rest",
+    "data-import"
+  ],
+  "author": "Sambo Chea <sombochea@cubetiqs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CUBETIQ/data-migration-nodejs/issues"
+  },
+  "homepage": "https://github.com/CUBETIQ/data-migration-nodejs#readme"
+}
